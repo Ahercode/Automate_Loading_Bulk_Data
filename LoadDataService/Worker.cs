@@ -12,7 +12,7 @@ public class Worker : BackgroundService
     {
         Timeout = TimeSpan.FromMinutes(2) // Set timeout to 2 minutes
     };
-    private const string apiUrl = "http://10.120.120.2:98/lottoService.svc/POST_TICKET?";
+    private const string apiUrl = "";
     private readonly string? _connectionString;
     private readonly int _pageSize;
     private readonly SaveLogService _saveLogService;
