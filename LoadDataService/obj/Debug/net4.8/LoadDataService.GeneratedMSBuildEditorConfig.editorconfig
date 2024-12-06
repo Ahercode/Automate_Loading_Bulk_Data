@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = LoadDataService
+build_property.ProjectDir = /Users/philip/RiderProjects/LoadDataService/LoadDataService/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,7 @@
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.csproj.AssemblyReference.cache
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.csproj.SuggestedBindingRedirects.cache
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.exe.config
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.AssemblyInfoInputs.cache
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.AssemblyInfo.cs
+/Users/philip/RiderProjects/LoadDataService/LoadDataService/obj/Debug/net4.8/LoadDataService.csproj.CoreCompileInputs.cache
